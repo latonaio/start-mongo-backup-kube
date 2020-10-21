@@ -1,0 +1,8 @@
+{
+    "connections": {
+        "transfer-mongo-kanban-backup": {
+            "outputDataPath": "/var/lib/aion/Data/direct-next-service_1",
+            "metadata": {}
+        }
+    }
+}
